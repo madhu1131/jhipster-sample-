@@ -42,7 +42,9 @@
     "jwtSecretKey": "ZGQyOWFhZTE4NWU0ZTMxMjAwNzU5ZTJkZDY2ODc5MTA1MjFjOGIwMDI3YWVhMDUzNWVhOWQ0NDY2MGYzZjAxMThmMmQ0Yjk1Yjc0NmE1MzEwN2JlODJmZjQyMzQ2ZDM4NmY3NGQ1NDRlOWVjNDVjNDQyOGUwMDc1NWQ3YzhiMDI=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Region", "Country"],
+    "lastLiquibaseTimestamp": 1623671907000
   },
   "git-provider": "GitHub",
   "git-company": "madhu1131",
